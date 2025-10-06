@@ -24,8 +24,7 @@ The layout demonstrates a production-level grasp of SwiftUI composition and stat
 
 ## 🎥 Demo
 
-<video src="https://github.com/salehbaf/finance-screen-swiftui/raw/main/Screenshots/demo.mp4" controls width="600"></video>
-
+<video src="https://github.com/salehbaf/finance-screen-swiftui/raw/main/DEMO.mov" controls width="600"></video>
 ## 📸 Screenshots
 
 
