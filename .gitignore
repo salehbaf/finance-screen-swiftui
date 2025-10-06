@@ -1,0 +1,14 @@
+DerivedData/
+build/
+*.xcuserdatad
+*.xcscmblueprint
+*.xccheckout
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+Pods/
+Carthage/
+Carthage/Build/
+.DS_Store
+*.log
