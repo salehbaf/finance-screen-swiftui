@@ -23,17 +23,7 @@ Every section is functional quick amount selections and keypad inputs dynamicall
 The layout demonstrates a production-level grasp of SwiftUI composition and state management.
 
 ## 🎥 Demo
-
-
-
 https://github.com/user-attachments/assets/cc14563e-84dd-4f89-9022-1c8a93342dac
-
-
-
-
-<video src="https://github.com/salehbaf/finance-screen-swiftui/raw/main/DEMO.mov" controls width="600"></video>
-## 📸 Screenshots
-
 
 ## ▶️ Run
 1. Open `FinanceScreen.xcodeproj` in Xcode 15+  
