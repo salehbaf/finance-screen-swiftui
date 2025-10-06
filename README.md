@@ -24,7 +24,10 @@ The layout demonstrates a production-level grasp of SwiftUI composition and stat
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/7783a1bd-d277-4a5c-9889-39c0272058a9
+
+
+https://github.com/user-attachments/assets/cc14563e-84dd-4f89-9022-1c8a93342dac
+
 
 
 
