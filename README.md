@@ -22,6 +22,10 @@ The app replicates a real-world finance UI with smooth Apple-style design and re
 Every section is functional quick amount selections and keypad inputs dynamically update the balance display.  
 The layout demonstrates a production-level grasp of SwiftUI composition and state management.
 
+## 🎥 Demo
+
+<video src="https://github.com/salehbaf/finance-screen-swiftui/raw/main/Screenshots/demo.mp4" controls width="600"></video>
+
 ## 📸 Screenshots
 
 
