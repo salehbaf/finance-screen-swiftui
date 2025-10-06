@@ -19,7 +19,7 @@ The app replicates a real-world finance UI with smooth Apple-style design and re
 - **Apple-style layout** with rounded cards, padding, and clean hierarchy  
 
 ## 💡 Highlights
-Every section is functional — quick amount selections and keypad inputs dynamically update the balance display.  
+Every section is functional quick amount selections and keypad inputs dynamically update the balance display.  
 The layout demonstrates a production-level grasp of SwiftUI composition and state management.
 
 ## 📸 Screenshots
